@@ -21,13 +21,13 @@ export default function Hero()
               <div className="available">
                 <p>Also Available On</p>
                 <div className="images">
-                <img src="../public/images/flipkart.png" alt="flipkart image" />
-                <img src="../public/images/amazon.png" alt="amazon image" />
+                <img src="./images/flipkart.png" alt="flipkart image" />
+                <img src="./images/amazon.png" alt="amazon image" />
                 </div>
               </div>
             </div>
             <div className="hero-image">
-              <img src="../public/images/shoe_image.png" alt="shoe-image" />
+              <img src="./images/shoe_image.png" alt="shoe-image" />
             </div>
           </div>
 
